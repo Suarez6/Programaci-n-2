@@ -1,0 +1,4 @@
+Ahorcado_inicio.exe
+Ahorcado_inicio.o
+TallerProgra.exe
+TallerProgra.o
